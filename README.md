@@ -3,7 +3,7 @@
 Efendi Bot Gizlilik Politikası
 Son Değiştirilme Tarihi : 18.06.2022
 
-Bu gizlilik politikası Efendi (909690990292525066) botunundur.
+Bu gizlilik politikası Efendi (988040228088479764) botunundur.
 
 Bilgi
 Kullanıcı – Discord platformuna kayıtlı olan her bir tekil kullanıcı.
