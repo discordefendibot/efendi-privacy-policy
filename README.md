@@ -1,9 +1,9 @@
 # efendi-privacy-policy
 
 Efendi Bot Gizlilik Politikası
-Son Değiştirilme Tarihi : 18.06.2022
+Son Değiştirilme Tarihi : 09.09.2022
 
-Bu gizlilik politikası Efendi (988040228088479764) botunundur.
+Bu gizlilik politikası Efendi (1010946492544069724) botunundur.
 
 Bilgi
 Kullanıcı – Discord platformuna kayıtlı olan her bir tekil kullanıcı.
@@ -25,4 +25,4 @@ ID'si, ismi, profil fotoğrafı, üye sayısı, sunucu sahibi, kanal sayısı, b
 Verileriniz, şifrelenme yöntemiyle, erişime kısıtlı bir veri tabanlarında saklanır. Verilerinizin gizlenimi hakkında bize destekefendibot@gmail.com iletişim adresinden elektronik posta gönderebilirsiniz. Verileriniz hakkında bir endişeniz veya sorunuz bulunmaktaysa, bilet oluşturarak yardım alabilirsiniz.
 
 4) Verilerinizin Silinimi
-Verilerinizin silinmesi hakkında talep oluşturmakta özgürsünüz. Verilerinizin tamamen silinmesi için talep isteğinizi Dexar#0001 (787384609947385908) isim etiketli ve ID'li kullanıcıya Direkt Mesaj atarak ya da destekefendibot@gmail.com iletişim adresinden elektronik posta göndererek iletebilirsiniz. Talebiniz, alındıktan 30 gün içinde işleme alınır.
+Verilerinizin silinmesi hakkında talep oluşturmakta özgürsünüz. Verilerinizin tamamen silinmesi için talep isteğinizi Dexar#7443 (787384609947385908) isim etiketli ve ID'li kullanıcıya Direkt Mesaj atarak ya da destekefendibot@gmail.com iletişim adresinden elektronik posta göndererek iletebilirsiniz. Talebiniz, alındıktan 30 gün içinde işleme alınır.
